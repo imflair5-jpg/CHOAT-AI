@@ -1,0 +1,37 @@
+[
+  {
+    "id": "writing",
+    "name": "글쓰기/문서",
+    "description": "글쓰기, 요약, 번역을 도와주는 도구",
+    "icon": "✍️",
+    "sortOrder": 1
+  },
+  {
+    "id": "research",
+    "name": "검색/리서치",
+    "description": "정보를 찾고 정리하는 걸 도와주는 도구",
+    "icon": "🔍",
+    "sortOrder": 2
+  },
+  {
+    "id": "image",
+    "name": "이미지 생성",
+    "description": "그림, 디자인, 썸네일을 만들어주는 도구",
+    "icon": "🎨",
+    "sortOrder": 3
+  },
+  {
+    "id": "coding",
+    "name": "코딩",
+    "description": "코드 작성과 개발을 도와주는 도구",
+    "icon": "💻",
+    "sortOrder": 4
+  },
+  {
+    "id": "productivity",
+    "name": "생산성/자동화",
+    "description": "반복 작업을 줄이고 업무를 자동화하는 도구",
+    "icon": "⚡",
+    "sortOrder": 5
+  }
+]
